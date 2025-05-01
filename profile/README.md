@@ -13,9 +13,9 @@
 </em></p> 
 
 <p align="center"><em>
-Representación artística sobre las fases del programador en el proceso de entendimiento del problema.<br/>
-Comenzando desde la lectura del enunciado, su análisis y el planteo de una estrategia a seguir, ... ,<br/>
-a medida que nos vamos acercando a una solución y empezamos a ver —y entender— mejor los detalles del problema.
+Representación artística sobre las fases que atraviesa el programador en el proceso de entendimiento del problema.<br/>
+Desde la lectura del enunciado, su análisis y el planteo de una estrategia a seguir ... ,<br/>
+a medida que se acerca a una solución y empieza a ver —y entender— mejor los detalles del problema.
 </em></p>
 
 ## Enlaces
